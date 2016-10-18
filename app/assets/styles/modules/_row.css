@@ -49,6 +49,9 @@
     &__medium-8--smaller {
       width: 63%;
     }
-  }
 
+    &__test {
+      
+    }
+  }
 }

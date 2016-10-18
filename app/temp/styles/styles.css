@@ -690,6 +690,8 @@ a {
   .row__medium-8--smaller {
     width: 63%;
   }
+
+  .row__test {}
 }
 
 .generic-content-container p {
@@ -713,7 +715,6 @@ a {
   font-size: 2.55rem;
   font-weight: 300;
   text-align: center;
-
 
 }
 
@@ -748,7 +749,7 @@ a {
 .feature-item {
   position: relative;
   padding-bottom: 2.5rem;
-
+  
 }
 
 @media (min-width: 530px) {
