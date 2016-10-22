@@ -50,11 +50,7 @@
 
 	var _MobileMenu2 = _interopRequireDefault(_MobileMenu);
 
-<<<<<<< HEAD
-	var _RevealOnScroll = __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"./modules/RevealOnScroll\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
-=======
 	var _RevealOnScroll = __webpack_require__(3);
->>>>>>> reveal-on-scroll
 
 	var _RevealOnScroll2 = _interopRequireDefault(_RevealOnScroll);
 
